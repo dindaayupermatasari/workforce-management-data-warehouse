@@ -12,7 +12,7 @@ Salary increase and promotion predictions
 Note: All data is dummy/synthetic for demonstration purposes
 
 ## ERD Design
-![Uploading Screenshot 2025-11-23 135402.png…](https://github.com/user-attachments/assets/d265a7b3-78ee-4dee-813b-86a4e83f2c3b)
+<img width="833" height="562" alt="Screenshot 2025-11-23 135402" src="https://github.com/user-attachments/assets/79279226-4089-4d51-bb05-b6597a891b2c" />
 
 ## Dashboard Design
 ![Dashboard Workforce Management_page-0001](https://github.com/user-attachments/assets/d265a7b3-78ee-4dee-813b-86a4e83f2c3b)
