@@ -20,5 +20,5 @@ The dashboard is built using Microsoft Power BI and displays key performance ind
 ![Dashboard Workforce Management_page-0001](https://github.com/user-attachments/assets/d265a7b3-78ee-4dee-813b-86a4e83f2c3b)
 
 ## Team
-Dea Kayla Putri D.
+Dea Kayla Putri D.  
 Dinda Ayu Permatasari
